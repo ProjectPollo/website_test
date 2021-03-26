@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[7],{BHVr:function(e,t,a){"use strict";a.r(t);var n=a("q1tI"),l=a.n(n),r=a("8k0H"),i=a("UFli");t.default=function(){return l.a.createElement(r.a,null,l.a.createElement(i.a,{title:"Awards",description:"Each year Hope Labs will shortlist the organizations that have done the most for the community."}),l.a.createElement("div",null,l.a.createElement("h1",null,"Awards Page"),l.a.createElement("h2",null,"This is a webpage")))}}}]);
+//# sourceMappingURL=component---src-pages-awards-js-99b17a49fb6f5cb5a5db.js.map
